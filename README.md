@@ -1,6 +1,6 @@
 👋 Hi, I’m @joseajgj
 
-<h2> 🚀 &nbsp;Herramientas que sé usar</h2>
+<h2> 🚀 &nbsp;Tools that I use</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="bash" width="45" height="45"/>
