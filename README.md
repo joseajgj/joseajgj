@@ -1,5 +1,8 @@
-👋 Hi, I’m @joseajgj
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+This is the place where I upload my projects that I do in my free time
+
+I’m currently studying a degree in computer engineering, so I will not upload so many projects
 <h2> 🚀 &nbsp;Tools that I use</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
